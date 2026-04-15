@@ -21,10 +21,17 @@ I specialize in **Android System Internals**. My work involves bypassing securit
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waseemshahazad&show_icons=true&theme=tokyonight" alt="Waseem Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseemshahazad&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waseemshahazad&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseemshahazad&layout=compact&theme=tokyonight&hide_progress=false" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waseemshahazad&theme=tokyonight" width="97%" />
+</p>
+
+---
 
 ---
 
